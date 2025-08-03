@@ -1,0 +1,11 @@
+# Ignore node modules
+node_modules/
+
+# Ignore environment files
+.env
+.env.*  # if you have variants like .env.development, .env.production
+
+# Ignore specific files
+send_static_message.js
+output.xlsx
+P.js
